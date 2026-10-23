@@ -1,1 +1,1 @@
-I have not uploaded anything here yet, i will upload it in around a day or two
+i am working on the kernel, im currently fixing some bugs that is making it impossible to even use
